@@ -3,6 +3,8 @@
 Hi Learners, Today we shall explore the binary classification type of problem.
 This will be fairly light-weight dataset that is synthetically generated from real-world data, and will provide an opportunity to quickly iterate through various model and feature engineering ideas, create visualizations, etc.
 
+You can find the Dataset Here -> https://www.kaggle.com/competitions/playground-series-s3e17/data
+
 We follow our ideal ML Approach.
 
 EDA -> Data Cleaning -> Data Pre-Processing -> Data Visualizaion -> Data Modelling - Model Evaluation.
